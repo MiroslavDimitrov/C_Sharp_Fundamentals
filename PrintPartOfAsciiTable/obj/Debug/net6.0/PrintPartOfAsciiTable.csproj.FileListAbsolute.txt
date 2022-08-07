@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\bin\Debug\net6.0\PrintPartOfAsciiTable.exe
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\bin\Debug\net6.0\PrintPartOfAsciiTable.deps.json
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\bin\Debug\net6.0\PrintPartOfAsciiTable.runtimeconfig.json
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\bin\Debug\net6.0\PrintPartOfAsciiTable.dll
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\bin\Debug\net6.0\PrintPartOfAsciiTable.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.dll
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\refint\PrintPartOfAsciiTable.dll
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\PrintPartOfAsciiTable.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\Fundamentals\PrintPartOfAsciiTable\obj\Debug\net6.0\ref\PrintPartOfAsciiTable.dll

@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\bin\Debug\net6.0\Articles_ClassesAndObjects.exe
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\bin\Debug\net6.0\Articles_ClassesAndObjects.deps.json
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\bin\Debug\net6.0\Articles_ClassesAndObjects.runtimeconfig.json
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\bin\Debug\net6.0\Articles_ClassesAndObjects.dll
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\bin\Debug\net6.0\Articles_ClassesAndObjects.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.dll
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\refint\Articles_ClassesAndObjects.dll
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\Articles_ClassesAndObjects.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\Fundamentals\AdvertismentMessage_ClassesAndObjects\obj\Debug\net6.0\ref\Articles_ClassesAndObjects.dll

@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\bin\Debug\net6.0\VowelsCount_Methods.exe
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\bin\Debug\net6.0\VowelsCount_Methods.deps.json
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\bin\Debug\net6.0\VowelsCount_Methods.runtimeconfig.json
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\bin\Debug\net6.0\VowelsCount_Methods.dll
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\bin\Debug\net6.0\VowelsCount_Methods.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.dll
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\refint\VowelsCount_Methods.dll
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\VowelsCount_Methods.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\Fundamentals\VowelsCount_Methods\obj\Debug\net6.0\ref\VowelsCount_Methods.dll

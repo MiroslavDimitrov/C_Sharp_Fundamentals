@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\bin\Debug\net6.0\CommonElements_Arrays.exe
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\bin\Debug\net6.0\CommonElements_Arrays.deps.json
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\bin\Debug\net6.0\CommonElements_Arrays.runtimeconfig.json
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\bin\Debug\net6.0\CommonElements_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\bin\Debug\net6.0\CommonElements_Arrays.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\refint\CommonElements_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\CommonElements_Arrays.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\Fundamentals\CommonElements_Arrays\obj\Debug\net6.0\ref\CommonElements_Arrays.dll

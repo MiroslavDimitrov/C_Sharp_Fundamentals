@@ -1,0 +1,15 @@
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\bin\Debug\net6.0\Train_Arrays.exe
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\bin\Debug\net6.0\Train_Arrays.deps.json
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\bin\Debug\net6.0\Train_Arrays.runtimeconfig.json
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\bin\Debug\net6.0\Train_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\bin\Debug\net6.0\Train_Arrays.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.csproj.AssemblyReference.cache
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.AssemblyInfoInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.AssemblyInfo.cs
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.csproj.CoreCompileInputs.cache
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\refint\Train_Arrays.dll
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.pdb
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\Train_Arrays.genruntimeconfig.cache
+C:\Users\miro\Desktop\C#\Fundamentals\Train_Arrays\obj\Debug\net6.0\ref\Train_Arrays.dll
